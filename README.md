@@ -2,7 +2,6 @@
 
 An interactive visual analytics project exploring competitive thresholds, regulatory barriers, and granular driver performance dynamics behind Formula 1's historic 107% qualifying rule.
 
----
 
 ## Project Overview
 The 107% rule is traditionally viewed as a fixed regulatory boundary in Formula 1. However, through multi-dimensional visual analytics built in Observable, this project investigates how marginal gains, technological eras, circuit layouts, and micro-driver inputs shape the true "invisible wall" between qualification and exclusion.
